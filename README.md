@@ -1,0 +1,2 @@
+# sharebook
+This is a book sharing website which will help the people who are really seeking knowledge. By this website people can share any kinds of books . People who do not have ability to buy book and finding a book which is so old for this time and not easy to get, will get special support from this website. This website bring those of the people in one community. They can share their comment, rating, wish list, suggestion with their friends and inspire them to read books.  
